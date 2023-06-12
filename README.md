@@ -1,4 +1,4 @@
-![Header image](https://github.com/cektor/cektor-main/header.png)
+![Header image](https://github.com/cektor/cektor/header.png)
 
 👋 Welcome to my GitHub profile! I am a Software Developer with a passion for constant learning and discovery.
 
