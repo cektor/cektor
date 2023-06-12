@@ -1,4 +1,4 @@
-![Header image](headerv2.png)
+![Header image](headerv3.png)
 
 👋 Welcome to my GitHub profile! I am a Software Developer with a passion for constant learning and discovery.
 
