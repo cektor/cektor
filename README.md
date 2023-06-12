@@ -2,7 +2,9 @@
 
 👋 Welcome to my GitHub profile! I am a Software Developer with a passion for constant learning and discovery.
 
+- 👨‍💻 My Web site [fatihonder.org.tr](fatihonder.org.tr)
 
+- 📫 My E-Mail Address **info@fatihonder.org.tr**
 
 
 ## ⚡ Interests:
