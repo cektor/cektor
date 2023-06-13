@@ -23,6 +23,8 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=cektor&show_icons=true&theme=radical)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cektor)
+
 
 ## ⚡ Interests:
 -Software Development: I enjoy diving into the world of software development, constantly expanding my knowledge and skills in areas such as PHP, SQL, Python, Docker, JavaScript, HTML, CSS, VB.net, C# and Shell Script.
