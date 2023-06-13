@@ -26,9 +26,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![go](https://img.shields.io/badge/go-3776AB?logo=go&logoColor=white&style=for-the-badge)
+![visualbasic](https://img.shields.io/badge/vb.net-666666?logo=vb.net&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-c5b218?logo=javascript&logoColor=white&style=for-the-badge)
-![visualbasic](https://img.shields.io/badge/vb.net-666666?logo=vb.net&logoColor=white&style=for-the-badge)
 ![docker](https://img.shields.io/badge/docker-E34F26?logo=docker&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![php](https://img.shields.io/badge/php-E34F26?logo=php&logoColor=white&style=for-the-badge)
