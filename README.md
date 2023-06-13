@@ -15,9 +15,9 @@
 <h4 align="left">Visitor's count :eyes:</h4>
 
 <p align="left"><img src="https://profile-counter.glitch.me/{cektor}/count.svg" alt="cektor :: Visitor's Count" /></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cektor&langs_count=10&layout=compact" alt="cektor :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cektor&langs_count=10&layout=compact&theme=dark" alt="cektor :: Top Langs" /></p>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=cektor&show_icons=true&theme=radical)                ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cektor)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=cektor&show_icons=true&theme=dark)                ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cektor&theme=dark)
 
 
 
