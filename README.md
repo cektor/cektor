@@ -38,6 +38,13 @@
 
 ---
 
+## 💿 Operating Systems We Use and Support
+
+![Pardus](https://img.shields.io/badge/Pardus-F9DC3E?logo=linux&logoColor=black&style=for-the-badge)
+![windows](https://img.shields.io/badge/windows-3776AB?logo=windows&logoColor=white&style=for-the-badge)
+
+---
+
 ## ⚡ Interests:
 -Software Development: I enjoy diving into the world of software development, constantly expanding my knowledge and skills in areas such as PHP, SQL, Python, Docker, JavaScript, HTML, CSS, VB.net, C# and Shell Script.
 
