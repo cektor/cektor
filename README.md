@@ -21,8 +21,22 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=cektor&show_icons=true&theme=dark&refresh=true)     ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cektor&theme=dark&refresh=true)
 
+---
+## 🌍 Languages I Know And Use
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![go](https://img.shields.io/badge/go-3776AB?logo=go&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-c5b218?logo=javascript&logoColor=white&style=for-the-badge)
+![visualbasic](https://img.shields.io/badge/vb.net-666666?logo=vb.net&logoColor=white&style=for-the-badge)
+![docker](https://img.shields.io/badge/docker-E34F26?logo=docker&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![php](https://img.shields.io/badge/php-E34F26?logo=php&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=csswizardry&logoColor=white&style=for-the-badge)
+![shell](https://img.shields.io/badge/shell-4EAA25?logo=shell&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
+---
 
 ## ⚡ Interests:
 -Software Development: I enjoy diving into the world of software development, constantly expanding my knowledge and skills in areas such as PHP, SQL, Python, Docker, JavaScript, HTML, CSS, VB.net, C# and Shell Script.
@@ -31,3 +45,4 @@
 
 -Ham Radio: As a licensed ham radio operator with the callsign TB1TFO, I love connecting with radio enthusiasts and exploring the world of ham radio communications. I believe in the power of collaboration and open source communities, and GitHub is an incredible platform that allows me to learn from others and contribute to exciting projects.
 Let's connect, collaborate and do amazing things!
+---
