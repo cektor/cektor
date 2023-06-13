@@ -12,10 +12,6 @@
 
 ---
 
-- 👨‍💻 My Web site [https://fatihonder.org.tr](https://fatihonder.org.tr)
-
-
-
 <h4 align="left">Visitor's count :eyes:</h4>
 
 <p align="left"><img src="https://profile-counter.glitch.me/{cektor}/count.svg" alt="cektor :: Visitor's Count" /></p>
