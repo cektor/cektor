@@ -19,7 +19,7 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cektor&langs_count=10&layout=compact&theme=dark&refresh=true" alt="cektor :: Top Langs" /></p>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=cektor&show_icons=true&theme=dark&refresh=true)     ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cektor&theme=dark&refresh=true)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=cektor&show_icons=true&theme=dark&refresh=true)   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cektor&theme=dark&refresh=true)
 
 ---
 ## 🌍 Languages I Know And Use
