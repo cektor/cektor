@@ -2,9 +2,17 @@
 
 👋 Welcome to my GitHub profile! I am a Software Developer with a passion for constant learning and discovery.
 
+## 💌 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:info@fatihonder.org.tr) 
+[![Instagram](https://img.shields.io/badge/instagram-0A66C2?logo=instagram&logoColor=white&style=for-the-badge)]((https://www.instagram.com/_tb1tfo_)) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)]([https://t.me/elagoht](https://t.me/tb1tfo))
+
+---
+
 - 👨‍💻 My Web site [https://fatihonder.org.tr](https://fatihonder.org.tr)
 
-- 📫 My E-Mail Address **info@fatihonder.org.tr**
+
 
 <h4 align="left">Visitor's count :eyes:</h4>
 
