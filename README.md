@@ -52,6 +52,9 @@
 
 -Ham Radio: As a licensed ham radio operator with the call sign TB1TFO, I love connecting with radio enthusiasts and exploring the world of ham radio communications. I believe in the power of collaboration and open source communities, and GitHub is an incredible platform that allows me to learn from others and contribute to exciting projects.
 Let's connect, collaborate and do amazing things!
+
+
+![Header image](qrv73_logo.png)
 I am also Owner and Administrator of Online Radio Amateurs Platform www.QRV73.com
 
 ---
