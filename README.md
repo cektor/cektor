@@ -34,7 +34,7 @@
 ![php](https://img.shields.io/badge/php-E34F26?logo=php&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=csswizardry&logoColor=white&style=for-the-badge)
 ![shell](https://img.shields.io/badge/shell-4EAA25?logo=shell&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 ---
 
