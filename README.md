@@ -40,7 +40,7 @@
 
 ## 💿 Operating Systems We Use and Support
 
-![Pardus](https://img.shields.io/badge/Pardus-F9DC3E?logo=linux&logoColor=black&style=for-the-badge)
+[![Pardus](https://img.shields.io/badge/Pardus-F9DC3E?logo=linux&logoColor=black&style=for-the-badge)](https://pardus.org.tr/)
 ![windows](https://img.shields.io/badge/windows-3776AB?logo=windows&logoColor=white&style=for-the-badge)
 
 ---
