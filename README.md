@@ -4,7 +4,7 @@
 
 ## 💌 Contact Me
 
-[![html5](https://img.shields.io/badge/html5-0A66C2?logo=html5&logoColor=white&style=for-the-badge)](https://www.fatihonder.org.tr) 
+[![wordpress](https://img.shields.io/badge/WebSite-0A66C2?logo=wordpress&logoColor=white&style=for-the-badge)](https://www.fatihonder.org.tr) 
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:info@fatihonder.org.tr) 
 [![Instagram](https://img.shields.io/badge/instagram-0A66C2?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_tb1tfo_) 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/tb1tfo)
