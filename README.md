@@ -10,6 +10,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/tb1tfo)
 [![Pardus](https://img.shields.io/badge/Pardus-F9DC3E?logo=linux&logoColor=black&style=for-the-badge)](https://forum.pardus.org.tr/u/cektor/)
 
+
 ---
 
 <h4 align="left">Visitor's count :eyes:</h4>
