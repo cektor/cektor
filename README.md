@@ -20,7 +20,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cektor&show_icons=true&locale=en&layout=compact&theme=dark" alt="cektor" /></p>
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=cektor&show_icons=true&theme=dark&refresh=true)   ![Streak](https://github-readme-streak-stats.herokuapp.com/?&refresh=true&user=cektor&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cektor&show_icons=true&theme=dark" alt="cektor" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cektor&theme=dark" alt="cektor" /></p>
 
 ---
 ## 🌍 Languages I Know And Use
