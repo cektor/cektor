@@ -18,7 +18,7 @@
 
 <p align="left"><img src="https://profile-counter.glitch.me/{cektor}/count.svg" alt="cektor :: Visitor's Count" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cektor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cektor&theme=onedark)](https://github.com/cektor)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cektor&show_icons=true&locale=en&layout=compact&theme=dark" alt="cektor" /></p>
 
