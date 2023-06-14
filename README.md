@@ -13,16 +13,20 @@
 
 ---
 
+
 <h4 align="left">Visitor's count :eyes:</h4>
 
 <p align="left"><img src="https://profile-counter.glitch.me/{cektor}/count.svg" alt="cektor :: Visitor's Count" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cektor&show_icons=true&locale=en&layout=compact&theme=dark" alt="cektor" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=cektor)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cektor&show_icons=true&locale=en&layout=compact&theme=dark" alt="cektor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cektor&show_icons=true&theme=dark" alt="cektor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cektor&theme=dark" alt="cektor" /></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cektor&theme=dark)
 
 ---
 ## 🌍 Languages I Know And Use
