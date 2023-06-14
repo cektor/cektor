@@ -62,4 +62,4 @@ I am also Owner and Administrator of Online Radio Amateurs Platform www.QRV73.co
 
 ---
 
-![snake gif](https://github.com/cektor/cektor/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/cektor/cektor/output/github-contribution-grid-snake.svg" />
