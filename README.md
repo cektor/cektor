@@ -61,3 +61,5 @@ Let's connect, collaborate and do amazing things!
 I am also Owner and Administrator of Online Radio Amateurs Platform www.QRV73.com
 
 ---
+
+![snake gif](https://github.com/cektor/cektor/blob/output/github-contribution-grid-snake.gif)
