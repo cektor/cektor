@@ -17,7 +17,7 @@
 
 <p align="left"><img src="https://profile-counter.glitch.me/{cektor}/count.svg" alt="cektor :: Visitor's Count" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=cektor&refresh=true&langs_count=10&layout=compact&theme=dark&refresh=true" alt="cektor :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=cektor&refresh=true&langs_count=10&layout=compact&theme=dark" alt="cektor :: Top Langs" /></p>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=cektor&show_icons=true&theme=dark&refresh=true)   ![Streak](https://github-readme-streak-stats.herokuapp.com/?&refresh=true&user=cektor&theme=dark)
 
