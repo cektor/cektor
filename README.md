@@ -61,7 +61,7 @@
 Let's connect, collaborate and do amazing things!
 
 
-![Header image](qrv73_logo.png)
+![Header image](qrv73_logo.png)](https://fatihonder.org.tr)
 I am also Owner and Administrator of Online Radio Amateurs Platform www.QRV73.com
 
 ---
