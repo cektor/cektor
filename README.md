@@ -20,7 +20,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cektor&theme=onedark)](https://github.com/cektor?tab=repositories)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cektor&show_icons=true&locale=en&layout=compact&theme=dark&refresh=true" alt="cektor" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cektor&show_icons=true&locale=en&layout=compact&theme=dark" alt="cektor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cektor&show_icons=true&theme=dark" alt="cektor" /></p>
 
