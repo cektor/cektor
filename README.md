@@ -29,7 +29,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cektor&theme=dark)
 
 ---
-## 🌍 Languages I Know And Use
+## 🌍 Languages and Tools I Know and Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![go](https://img.shields.io/badge/go-3776AB?logo=go&logoColor=white&style=for-the-badge)
@@ -42,6 +42,9 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=csswizardry&logoColor=white&style=for-the-badge)
 ![shell](https://img.shields.io/badge/shell-4EAA25?logo=shell&logoColor=white&style=for-the-badge)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![gimp](https://img.shields.io/badge/GIMP-4479A1?logo=gimp&logoColor=white&style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-4479A1?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
+
 
 ---
 
