@@ -2,6 +2,9 @@
 
 👋 Welcome to my GitHub profile! I am a Software Developer with a passion for constant learning and discovery.
 
+[![](https://visitcount.itsvg.in/api?id=cektor&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ## 💌 Contact Me
 
 [![Website](https://img.shields.io/website?label=fatihonder.org.tr&logo=wordpress&style=for-the-badge&url=https%3A%2F%2Ffatihonder.org.tr)](https://fatihonder.org.tr)
@@ -98,10 +101,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=cektor&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cektor&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 
 ## ⚡ Interests:
 -Software Development: I enjoy diving into the world of software development, constantly expanding my knowledge and skills in areas such as PHP, SQL, Python, Docker, JavaScript, HTML, CSS, VB.net, C# and Shell Script.
